@@ -5,11 +5,11 @@ description: Kun Chen is...
 ---
 
 #### <a name="CS Master"></a>current position
-{Insert text here}
+{CS Master in GWU}
 
 
 #### <a name="Senior Engineer"></a>previous positions
-{Insert text here}
+{Senior Engineer}
 
 
 #### <a name="researchbackground"></a>research background
@@ -17,7 +17,7 @@ description: Kun Chen is...
 
 
 #### <a name="education"></a>ecucation
-{Insert text here}
+{Matser}
 
 
 #### <a name="cvandresume"></a>cv and resume
