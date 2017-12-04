@@ -1,15 +1,15 @@
 ---
 layout: page
 title: about
-description: Benjamin Harvey is...
+description: Kun Chen is...
 ---
 
-#### <a name="currentposition"></a>current position
-{Insert text here}
+#### <a name="CS Master"></a>current position
+{CS Master in GWU}
 
 
-#### <a name="previousposition"></a>previous positions
-{Insert text here}
+#### <a name="Senior Engineer"></a>previous positions
+{Senior Engineer}
 
 
 #### <a name="researchbackground"></a>research background
@@ -17,7 +17,7 @@ description: Benjamin Harvey is...
 
 
 #### <a name="education"></a>ecucation
-{Insert text here}
+{Matser}
 
 
 #### <a name="cvandresume"></a>cv and resume
