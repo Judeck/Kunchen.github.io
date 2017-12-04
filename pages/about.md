@@ -1,14 +1,14 @@
 ---
 layout: page
 title: about
-description: Benjamin Harvey is...
+description: Kun Chen is...
 ---
 
-#### <a name="currentposition"></a>current position
+#### <a name="CS Master"></a>current position
 {Insert text here}
 
 
-#### <a name="previousposition"></a>previous positions
+#### <a name="Senior Engineer"></a>previous positions
 {Insert text here}
 
 
