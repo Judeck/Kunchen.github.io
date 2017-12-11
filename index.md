@@ -9,7 +9,7 @@ description: kun chen is a computer science master in GWU
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
           <li><a href="https://github.com/Judeck">github</a></li>
-          <li><a href="https://linkedin.com/feed/">LinkedIn</a></li>
+          <li><a href="https://www.linkedin.com/in/kun-chen-0b1741141/">LinkedIn</a></li>
       </ul>
   </div>
 </div>
