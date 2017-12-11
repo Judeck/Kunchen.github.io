@@ -1,17 +1,15 @@
 ---
 layout: frontpage
-title: Student Name
-description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
-keywords: statistics, data analytics
+title: Kun Chen
+description: kun chen is a computer science master in GWU
 ---
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/bsharvey">github</a></li>
-          <li><a href="http://kbroman.org/blog">blog</a></li>
-          <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">LinkedIn</a></li>
+          <li><a href="https://github.com/Judeck">github</a></li>
+          <li><a href="https://https://www.linkedin.com/in/kun-chen-0b1741141/">LinkedIn</a></li>
       </ul>
   </div>
 </div>
